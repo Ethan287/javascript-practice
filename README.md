@@ -1,0 +1,2 @@
+# javascript-practice
+day one
